@@ -303,8 +303,9 @@ fpc1020_mmi.ko
 anc_fps_mmi.ko
 moto_mmap_fault.ko
 moto_mm.ko
-moto_swap.ko
+moto_swap5.ko
 moto_sched.ko
 con_dfpar.ko
 moto_binder.ko
+mmi_lpm_dbg.ko
 msm_kgsl.ko

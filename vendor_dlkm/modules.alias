@@ -915,6 +915,7 @@ alias usb:v0930p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v12D1p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v1519p0443d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v1546p1010d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
+alias usb:v8087p095Ad*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v17E9p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v*p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias mhi:IPCR qrtr_mhi
@@ -1654,6 +1655,8 @@ alias of:N*T*Cqcom,slim-ngd-v2.1.0C* slim_qcom_ngd_ctrl
 alias spi:st54spi st54spi
 alias of:N*T*Cst,st54spi st54spi
 alias of:N*T*Cst,st54spiC* st54spi
+alias of:N*T*Cmmi,lpm-dbg mmi_lpm_dbg
+alias of:N*T*Cmmi,lpm-dbgC* mmi_lpm_dbg
 alias rtnl-link-macsec macsec
 alias net-pf-16-proto-16-family-macsec macsec
 alias of:N*T*Cqcom,spf_core spf_core_dlkm

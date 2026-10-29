@@ -886,6 +886,7 @@ alias usb:v0930p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v12D1p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v1519p0443d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v1546p1010d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
+alias usb:v8087p095Ad*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v17E9p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias usb:v*p*d*dc*dsc*dp*ic02isc0Dip00in* cdc_ncm
 alias char-major-108-0 ppp_generic
